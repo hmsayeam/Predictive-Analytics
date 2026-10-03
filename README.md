@@ -12,4 +12,4 @@ predictive-analytics-portfolio/
 ├── notebooks/
 │   └── exploratory_data_analysis.ipynb
 └── models/
-    └── tips_rf_pipeline.pkl
+└── tips_rf_pipeline.pkl
